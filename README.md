@@ -31,6 +31,6 @@ Tendré que investigar el procedimiento para realizar estos cambios para esos SO
 
 ## Espera... y qué hay del Layout Estados Unidos Internacional?
 
-Es cierto, la distribución del teclado de Estados Unidos Internacional ya tiene acceso a los acentos usando Alt + a, e, i, o, u. ¿Por qué usar este?
+Es cierto, la distribución del teclado de Estados Unidos Internacional ya tiene acceso a los acentos usando Alt + a, e, i, o, u, y también puedes usar la tecla de apóstrofe como acento. ¿Por qué usar este?
 
-Como yo lo veo, esa distribución está hecha por alguien que escribe mucho en Inglés, pero quiere tener la posibilidad de escribir los caracteres de español también. Aunque parece práctico usar alt + la vocal, lo cierto es que no se siente natural. Las personas que venimos de una distribución de Español estamos muy acostumbradas a usar la tecla de acento y luego la volcal que queremos acentuar. Va lo mismo para la diéresis. Mi recomendación es que no me creas. Úsalo, y analiza si de verdad se siente mejor, el objetivo es que sientas tan natural escribir inglés como español en un teclado con distribución estadounidense.
+Como yo lo veo, esa distribución está hecha para uso general, no enfocada en programación. Cambiar la prioridad del apóstrofe y comilla doble por el acento y la diéresis no es un buen movimiento para los que programamos. Aparte, el uso de Alt + las vocales no está mal, pero es un movimiento de manos diferente al de las personas que venimos de una distribución de Español: estamos muy acostumbradas a usar la tecla de acento y luego la volcal que queremos acentuar. Va lo mismo para la diéresis.
