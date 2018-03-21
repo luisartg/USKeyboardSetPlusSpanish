@@ -1,5 +1,8 @@
 # Teclado Estadounidense + Caracteres en Español
-Este repositorio contiene el archivo de configuración .klc que contiene el mapeo de español para un teclado con US. Pensado para los que usan teclados en Inglés pero necesitan la facilidad de escribir en Español.
+
+Este repositorio contiene el archivo de configuración .klc que contiene el mapeo de español para un teclado con US. 
+
+Esta distribución está pensada para aprovechar al 100% el teclado US para usarlo en programación, y además agregar un uso similar para los caracteres que usamos en español: acento, diéresis, y la eñe.
 
 ## Combinaciones Agregadas
 
