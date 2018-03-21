@@ -25,5 +25,5 @@ Contiene el instalador. Probado en:
 * Windows 7: Sin probar.
 * Windows XP: Sin probar.
 
-## Y linux, y OS?
+## Y Linux, y macOS X?
 Tendré que investigar el procedimiento para realizar estos cambios para esos SOs. Si quieres aportar con un procedimiento, adelante!
