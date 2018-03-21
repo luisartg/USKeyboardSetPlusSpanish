@@ -1,0 +1,36 @@
+Acento: U+00b4
+Dieresis: U+00a8
+Exclamacion inicial: U+00a1
+Pregunta inicial: U+00bf
+ñ: U+00f1
+Ñ: U+00d1
+grados: U+00ba
+
+Acentos
+U+0061	U+00e1	a	á
+U+0065	U+00e9	e	é
+U+0075	U+00fa	u	ú
+U+0069	U+00ed	i	í
+U+0079	U+00fd	y	ý
+U+006f	U+00f3	o	ó
+U+0041	U+00c1	A	Á
+U+0045	U+00c9	E	É
+U+0055	U+00da	U	Ú
+U+0049	U+00cd	I	Í
+U+0059	U+00dd	Y	Ý
+U+004f	U+00d3	O	Ó
+U+0020	U+00b4	 	´
+
+Dieresis
+U+0061	U+00e4	a	ä
+U+0065	U+00eb	e	ë
+U+0075	U+00fc	u	ü
+U+0069	U+00ef	i	ï
+U+0079	U+00ff	y	ÿ
+U+006f	U+00f6	o	ö
+U+0041	U+00c4	A	Ä
+U+0045	U+00cb	E	Ë
+U+0055	U+00dc	U	Ü
+U+0049	U+00cf	I	Ï
+U+004f	U+00d6	O	Ö
+U+0020	U+00a8	 	¨
